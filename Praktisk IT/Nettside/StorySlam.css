@@ -23,3 +23,15 @@
 .nav-item{
     font-size: 20px;
 }
+
+.btn-primary{
+    background-color: #892119;
+    border-color: #892119;
+    color: #d2af75;
+}
+
+.btn-primary:hover{
+    background-color: white;
+    border-radius: 25px;
+    color: #c35438;
+}
