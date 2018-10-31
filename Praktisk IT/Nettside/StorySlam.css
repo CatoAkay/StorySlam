@@ -15,9 +15,12 @@
 }
 
 .tydeligere{
-text-shadow: -2px 0 black, 0 1px black, 3px 0 black, 0 -2px black;
-color: #ddbdad;
+    text-shadow: white 0px 0px 10px;
 
+}
+
+.justify{
+    text-align: justify;
 }
 
 .eupopup-head{
