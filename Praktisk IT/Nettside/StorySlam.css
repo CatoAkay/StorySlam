@@ -19,6 +19,24 @@
 
 }
 
+.mer{
+    font-size: 40px!important;
+}
+
+.story{
+    color: white;
+}
+
+.story:hover{
+    color: green;
+}
+
+.story:focus{
+    border: none;
+    box-shadow: none;
+    padding: none;
+}
+
 .justify{
     text-align: justify;
 }
@@ -31,8 +49,12 @@
     font-size: 15px;;
 }
 
+.eupopup-button{
+    font-size: 25px;
+}
+
 .eupopup-button:hover{
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .ckanpp{
@@ -63,4 +85,20 @@
     background-color: white;
     border-radius: 25px;
     color: #c35438;
+}
+
+@media only screen and (max-width: 559px) {
+
+    .eupopup-head{
+        font-size: 20px;
+    }
+
+    .eupopup-body{
+        font-size: 15px;;
+    }
+
+    .eupopup-button:hover{
+        font-size: 20px;
+    }
+
 }
