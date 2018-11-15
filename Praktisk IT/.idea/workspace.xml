@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f13fa3a-81d7-4ab1-9555-921366ca4af3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Nettside/TermsOfUse.html" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Nettside/index.html" afterPath="$PROJECT_DIR$/Nettside/index.html" />
-      <change beforePath="$PROJECT_DIR$/Nettside/privacy.html" afterPath="$PROJECT_DIR$/Nettside/privacy.html" />
-    </list>
+    <list default="true" id="8f13fa3a-81d7-4ab1-9555-921366ca4af3" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -313,7 +308,7 @@
       <workItem from="1541071246063" duration="215000" />
       <workItem from="1541073023657" duration="74000" />
       <workItem from="1541073998174" duration="7140000" />
-      <workItem from="1542277382021" duration="758000" />
+      <workItem from="1542277382021" duration="1352000" />
     </task>
     <task id="LOCAL-00001" summary="swsw">
       <created>1538481881609</created>
@@ -333,7 +328,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81634000" />
+    <option name="totallyTimeSpent" value="82228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
