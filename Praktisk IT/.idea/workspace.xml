@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8f13fa3a-81d7-4ab1-9555-921366ca4af3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Nettside/img/StorySlamOrg/Riktigebilder/Kristiansand.JPG" afterPath="$PROJECT_DIR$/Nettside/img/StorySlamOrg/Riktigebilder/Kristiansand.JPG" />
-      <change beforePath="$PROJECT_DIR$/Nettside/img/StorySlamOrg/Riktigebilder/Trondheim.JPG" afterPath="$PROJECT_DIR$/Nettside/img/StorySlamOrg/Riktigebilder/Trondheim.JPG" />
       <change beforePath="$PROJECT_DIR$/Nettside/index.html" afterPath="$PROJECT_DIR$/Nettside/index.html" />
+      <change beforePath="$PROJECT_DIR$/Nettside/index_en.html" afterPath="$PROJECT_DIR$/Nettside/index_en.html" />
+      <change beforePath="$PROJECT_DIR$/Nettside/privacy.html" afterPath="$PROJECT_DIR$/Nettside/privacy.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,13 +16,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Nettside/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="895" column="42" lean-forward="true" selection-start-line="895" selection-start-column="42" selection-end-line="895" selection-end-column="42" />
+            <state relative-caret-position="84">
+              <caret line="31" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1324" selection-end-column="7" />
               <folding>
-                <element signature="e#31722#31728#0" expanded="true" />
+                <element signature="e#31747#31753#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_en.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Nettside/index_en.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding>
+                <element signature="e#29021#29027#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -31,7 +43,7 @@
       <file leaf-file-name="TermsOfUse.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Nettside/TermsOfUse.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="2751">
               <caret line="131" column="45" lean-forward="false" selection-start-line="131" selection-start-column="45" selection-end-line="131" selection-end-column="45" />
               <folding />
             </state>
@@ -41,8 +53,8 @@
       <file leaf-file-name="privacy.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Nettside/privacy.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            <state relative-caret-position="511">
+              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,7 +63,7 @@
       <file leaf-file-name="agency.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Nettside/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10234">
+            <state relative-caret-position="12642">
               <caret line="602" column="16" lean-forward="false" selection-start-line="602" selection-start-column="16" selection-end-line="602" selection-end-column="16" />
               <folding />
             </state>
@@ -61,7 +73,7 @@
       <file leaf-file-name="contact_me.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Nettside/mail/contact_me.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="378">
               <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
               <folding />
             </state>
@@ -71,7 +83,7 @@
       <file leaf-file-name="contact_me.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Nettside/js/contact_me.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="168">
               <caret line="8" column="65" lean-forward="false" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
               <folding>
                 <marker date="1541001456250" expanded="true" signature="1390:1397" ph="×" />
@@ -84,7 +96,7 @@
       <file leaf-file-name="StorySlam.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Nettside/StorySlam.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="399">
               <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding>
                 <marker date="1542588029993" expanded="true" signature="574:577" ph="{...}" />
@@ -106,29 +118,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>portfolioModal3</find>
-      <find>portfolioModal4</find>
-      <find>portfolioModal5</find>
-      <find>portfolioModal6</find>
-      <find>crea</find>
-      <find>tabindex=&quot;-</find>
-      <find>pod</find>
-      <find>tjenester</find>
-      <find>bedr</find>
-      <find>t seems that my mail server</find>
-      <find>beklager</find>
-      <find>sorry</find>
-      <find>skole</find>
-      <find>hva vi</find>
-      <find>tydeliger</find>
-      <find>@media</find>
-      <find>media</find>
-      <find>conta</find>
-      <find>øvrige</find>
-      <find>email</find>
-      <find>close projoc</find>
-      <find>close pr</find>
-      <find>just</find>
       <find>be par</find>
       <find>story</find>
       <find>be</find>
@@ -136,6 +125,29 @@
       <find>tjenes</find>
       <find>lorem</find>
       <find>kri</find>
+      <find>stavan</find>
+      <find>trond</find>
+      <find>harst</find>
+      <find>grand</find>
+      <find>what</find>
+      <find>hva</find>
+      <find>kultur</find>
+      <find>kristian</find>
+      <find>stavanger</find>
+      <find>bergen</find>
+      <find>trondheim</find>
+      <find>Grandslam</find>
+      <find>pod</find>
+      <find>Tjenester</find>
+      <find>bedr</find>
+      <find>pros</find>
+      <find>hvem</find>
+      <find>contac</find>
+      <find>contact us</find>
+      <find>lukk</find>
+      <find>dato</find>
+      <find>proje</find>
+      <find>school</find>
     </findStrings>
     <dirStrings>
       <dir>D:\Cato\Dokumenter\Skole\Praktisk IT\Nettside\img</dir>
@@ -160,12 +172,12 @@
         <option value="$PROJECT_DIR$/Nettside/jquery/example.html" />
         <option value="$PROJECT_DIR$/Nettside/js/jquery-eu-cookie-law-popup.js" />
         <option value="$PROJECT_DIR$/Nettside/js/contact_me.js" />
-        <option value="$PROJECT_DIR$/Nettside/index_en.html" />
         <option value="$PROJECT_DIR$/Nettside/vendor/TermsOfUse.html" />
         <option value="$PROJECT_DIR$/Nettside/TermsOfUse.html" />
-        <option value="$PROJECT_DIR$/Nettside/privacy.html" />
         <option value="$PROJECT_DIR$/Nettside/StorySlam.css" />
         <option value="$PROJECT_DIR$/Nettside/index.html" />
+        <option value="$PROJECT_DIR$/Nettside/privacy.html" />
+        <option value="$PROJECT_DIR$/Nettside/index_en.html" />
       </list>
     </option>
   </component>
@@ -231,8 +243,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -315,6 +327,7 @@
       <workItem from="1541073998174" duration="7140000" />
       <workItem from="1542277382021" duration="1352000" />
       <workItem from="1542585818298" duration="2560000" />
+      <workItem from="1542806802668" duration="6504000" />
     </task>
     <task id="LOCAL-00001" summary="swsw">
       <created>1538481881609</created>
@@ -334,16 +347,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84788000" />
+    <option name="totallyTimeSpent" value="91292000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1552" height="840" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20507812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17708333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32596686" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -355,7 +369,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -446,7 +459,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#31722#31728#0" expanded="true" />
+            <element signature="e#31747#31753#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -473,7 +486,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#31722#31728#0" expanded="true" />
+            <element signature="e#31747#31753#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -618,7 +631,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Nettside/js/contact_me.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="168">
           <caret line="8" column="65" lean-forward="false" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
           <folding>
             <marker date="1541001456250" expanded="true" signature="1390:1397" ph="×" />
@@ -629,39 +642,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Nettside/mail/contact_me.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="378">
           <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Nettside/index_en.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="119" column="19" lean-forward="true" selection-start-line="119" selection-start-column="19" selection-end-line="119" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Nettside/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10234">
+        <state relative-caret-position="12642">
           <caret line="602" column="16" lean-forward="false" selection-start-line="602" selection-start-column="16" selection-end-line="602" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Nettside/vendor/TermsOfUse.html" />
-    <entry file="file://$PROJECT_DIR$/Nettside/privacy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Nettside/TermsOfUse.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="2751">
           <caret line="131" column="45" lean-forward="false" selection-start-line="131" selection-start-column="45" selection-end-line="131" selection-end-column="45" />
           <folding />
         </state>
@@ -669,7 +667,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Nettside/StorySlam.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="399">
           <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding>
             <marker date="1542588029993" expanded="true" signature="574:577" ph="{...}" />
@@ -679,10 +677,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Nettside/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="895" column="42" lean-forward="true" selection-start-line="895" selection-start-column="42" selection-end-line="895" selection-end-column="42" />
+        <state relative-caret-position="84">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1324" selection-end-column="7" />
           <folding>
-            <element signature="e#31722#31728#0" expanded="true" />
+            <element signature="e#31747#31753#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nettside/privacy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nettside/index_en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#29021#29027#0" expanded="true" />
           </folding>
         </state>
       </provider>
