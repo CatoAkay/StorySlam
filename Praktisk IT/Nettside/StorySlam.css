@@ -138,6 +138,10 @@
     color: #c35438;
 }
 
+.extra-room{
+    padding-top: 100px;
+}
+
 @media only screen and (max-width: 559px) {
 
     .eupopup-head{
