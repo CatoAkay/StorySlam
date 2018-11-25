@@ -122,9 +122,9 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-toggler {
-  font-size: 12px;
+  font-size: 24px;
   right: 0;
-  padding: 13px;
+  padding: 20px;
   text-transform: uppercase;
   color: white;
   border: 0;
@@ -134,7 +134,8 @@ img::-moz-selection {
 
 #mainNav .navbar-brand {
   color: #EEDAB8;
-  font-family: 'Bungee', cursive, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-family: 'Londrina Solid', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-size: 2.5em;
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
@@ -154,6 +155,7 @@ img::-moz-selection {
   color: #EEDAB8;
 }
 
+/* For large screens */
 @media (min-width: 992px) {
   #mainNav {
     padding-top: 25px;
@@ -162,9 +164,10 @@ img::-moz-selection {
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
     background-color: transparent;
+    /* Used for when the user scrolls down */
   }
   #mainNav .navbar-brand {
-    font-size: 1.75em;
+    font-size: 2.75em;
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
   }
@@ -177,8 +180,20 @@ img::-moz-selection {
     background-color: #649B6F;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    font-size: 1.25em;
+    font-size: 2.25em;
     padding: 12px 0;
+  }
+}
+
+/*---------------------------------*/
+/*--Styling for mini phones |3.0|-*/
+@media (max-width: 360px) {
+  #mainNav .navbar-toggler {
+    font-size: 12px;
+    padding: 13px;
+  }
+  #mainNav .navbar-brand {
+    font-size: 1.5em;
   }
 }
 

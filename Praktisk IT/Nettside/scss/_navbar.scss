@@ -2,9 +2,9 @@
 #mainNav {
   background-color: $gray-900;
   .navbar-toggler {
-    font-size: 12px;
+    font-size: 24px;
     right: 0;
-    padding: 13px;
+    padding: 20px;
     text-transform: uppercase;
     color: white;
     border: 0;
@@ -14,6 +14,7 @@
   .navbar-brand {
     color: $primary;
     @include script-font;
+    font-size: 2.5em;
     &.active,
     &:active,
     &:focus,
@@ -38,6 +39,8 @@
     }
   }
 }
+
+/* For large screens */
 @media(min-width:992px) {
   #mainNav {
     padding-top: 25px;
@@ -48,7 +51,7 @@
     border: none;
     background-color: transparent;
     .navbar-brand {
-      font-size: 1.75em;
+      font-size: 2.75em;
       -webkit-transition: all 0.3s;
       -moz-transition: all 0.3s;
       transition: all 0.3s;
@@ -60,14 +63,31 @@
         }
       }
     }
+
+    /* Used for when the user scrolls down */
     &.navbar-shrink {
       padding-top: 0;
       padding-bottom: 0;
       background-color: $gray-900;
       .navbar-brand {
-        font-size: 1.25em;
+        font-size: 2.25em;
         padding: 12px 0;
       }
+    }
+  }
+}
+
+
+/*---------------------------------*/
+/*--Styling for mini phones |3.0|-*/
+@media(max-width:360px) {
+  #mainNav {
+    .navbar-toggler {
+      font-size: 12px;
+      padding: 13px;
+    }
+    .navbar-brand {
+      font-size: 1.5em;
     }
   }
 }
