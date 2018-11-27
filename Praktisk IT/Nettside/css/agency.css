@@ -1,7 +1,8 @@
 /*!
  * Start Bootstrap - Agency v5.0.2 (https://startbootstrap.com/template-overviews/agency)
  * Copyright 2013-2018 Start Bootstrap
- * 
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
+ */
 
 /* Legacy fonts, outdated
 @mixin heading-font {
@@ -617,6 +618,9 @@ header.masthead .intro-text .intro-heading {
   margin-top: 0;
 }
 
+/*====================================*/
+/*====-| 1 |-Contact-================*/
+/*==================================*/
 section#contact {
   background-color: #649B6F;
   background-image: url("../img/map-image.png");
@@ -675,6 +679,9 @@ section#contact :-ms-input-placeholder {
   font-family: 'Ubuntu', sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
+/*====================================*/
+/*====-| 1 |-Footer-=================*/
+/*==================================*/
 footer {
   padding: 25px 0;
   text-align: center;

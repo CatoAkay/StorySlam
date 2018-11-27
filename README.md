@@ -16,4 +16,7 @@ To continue work on this project, you first need to make sure your enviroment su
 5. Now just run 'gulp dev' in the dir where the project is stored and edit in realtime. 
 
 
+I have labelled and commented extensively throughout this project, and included a table of contents on top of the storyslam.css-file. Use this to navigate the modules.
+All changes to the websites stylesheets happen through SCSS files. You then run gulp css in the project folder, and gulp rules compile each module, adding it to storyslam.css
+
 This project was created by Cato Akay and Yanislav Zagorov on behalf of StorySLAM at the Oslo metropolitan university in Oslo, Norway. 
