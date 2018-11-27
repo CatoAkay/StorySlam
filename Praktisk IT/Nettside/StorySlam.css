@@ -45,7 +45,7 @@
 /*-------Text-based content |1.2|-*/
 
 /* Make all objects clearer on focus. Exception added to class nedover as it has a special style. */
-*:focus:not(.nedover) {
+*:focus:not(.btn-header) {
     -webkit-transition: all 0.30s ease-in-out;
     -moz-transition: all 0.30s ease-in-out;
     -ms-transition: all 0.30s ease-in-out;
@@ -66,7 +66,7 @@
 
 }
 
-/* Emphasize */
+/* Makes long text clearer and more readable. Currently only used for introdctory text under "What is StorySLAM". */
 section h3.section-paragraph {
     font-size: 26px;
     font-weight: 500;
@@ -128,12 +128,12 @@ section h3.section-paragraph {
     cursor: pointer;
 }
 
-.nedover {
-    margin-top: 300px;
-}
-
 .nav-item{
     font-size: 20px;
+}
+
+.btn-header {
+    margin-top: 300px;
 }
 
 .btn-primary{
