@@ -1,9 +1,12 @@
-// Global styling for this template
+/*__________________________________________*/
+/*--| 2 |-Navbar----------------------------*/
+
 body {
   overflow-x: hidden;
   @include body-font;
 }
 
+/*---|1.1|----------------Text-based content*/
 p {
   line-height: 1.75;
 }
@@ -45,13 +48,14 @@ section {
     @include serif-font;
   }
 }
+
 @media(min-width:768px) {
   section {
     padding: 125px 0;
   }
 }
 
-// Button Styles
+/*---|1.2|---------------------------Buttons*/
 .btn {
   @include heading-font;
   font-weight: 700;
@@ -78,7 +82,7 @@ section {
   }
 }
 
-// Highlight color customization
+/*---|1.3|----------------------Highlighting*/
 ::-moz-selection {
   background: $primary;
   text-shadow: none;

@@ -1,4 +1,7 @@
-// Styling for the navbar
+/*__________________________________________*/
+/*--| 2 |-Navbar----------------------------*/
+
+/*--|2.1|--------------Mobile-specific rules*/
 #mainNav {
   background-color: $gray-900;
   .navbar-toggler {
@@ -40,7 +43,7 @@
   }
 }
 
-/* For large screens */
+/*--|2.2|----Desktop & Tablet-specific rules*/
 @media(min-width:992px) {
   #mainNav {
     padding-top: 25px;
@@ -77,9 +80,7 @@
   }
 }
 
-
-/*---------------------------------*/
-/*--Styling for mini phones |3.0|-*/
+/*--|2.3|--Rules for support of older phones*/
 @media(max-width:360px) {
   #mainNav {
     .navbar-toggler {

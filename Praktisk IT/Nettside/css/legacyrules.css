@@ -1,0 +1,125 @@
+/* Make all objects clearer on focus. Exception added to class nedover as it has a special style. */
+*:focus:not(.btn-header) {
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    #border: 2px solid blue;
+
+    box-shadow: 0 0 5px blue;
+    #padding: 3px 0px 3px 3px;
+    #margin: 5px 1px 3px 0px;
+    #border: 1px solid rgba(81, 203, 238, 1);
+}
+
+.tydeligere {
+    text-shadow: white 0px 0px 10px;
+
+}
+
+/* Makes long text clearer and more readable. Currently only used for introdctory text under "What is StorySLAM". */
+section h3.section-paragraph {
+    font-size: 26px;
+    font-weight: 500;
+    margin-bottom: 75px;
+    text-transform: none;
+    text-align: center;
+    font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  }
+
+.mer {
+    font-size: 40px!important;
+}
+
+.text-contrast {
+    color: white;
+}
+
+.story {
+    color: white;
+}
+
+.story:hover {
+    color: green;
+}
+
+.story:focus {
+    border: none;
+    box-shadow: none;
+    padding: none;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.eupopup-head {
+    font-size: 30px;
+}
+
+.eupopup-body {
+    font-size: 15px;;
+}
+
+.eupopup-button {
+    font-size: 25px;
+}
+
+.eupopup-button:hover {
+    font-size: 30px;
+}
+
+.ckanpp {
+    background:none!important;
+    color:inherit;
+    border:none;
+    padding:0!important;
+    font: inherit;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.nav-item {
+    font-size: 20px;
+}
+
+.btn-header {
+    margin-top: 30px;
+}
+
+@media(min-width:768px){
+    .btn-header {
+        margin-top: 300px;
+    }
+}
+
+.btn-primary{
+    background-color: #892119;
+    border-color: #892119;
+    color: #d2af75;
+}
+
+.btn-primary:hover{
+    background-color: white;
+    border-radius: 25px;
+    color: #c35438;
+}
+
+.extra-room{
+    padding-top: 100px;
+}
+
+@media only screen and (max-width: 559px) {
+    .eupopup-head{
+        font-size: 20px;
+    }
+    .eupopup-body{
+        font-size: 15px;;
+    }
+    .eupopup-button:hover{
+        font-size: 20px;
+    }
+}
