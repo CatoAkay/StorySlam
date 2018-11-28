@@ -1,4 +1,7 @@
-// Styling for the portfolio section
+/*__________________________________________*/
+/*--| 5 |-Portfolio-------------------------*/
+
+/*--|5.1|--------------Mobile-specific rules*/
 #portfolio {
   .portfolio-item {
     right: 0;
@@ -62,6 +65,8 @@
     z-index: 2;
   }
 }
+
+/*--|5.2|----Desktop & Tablet-specific rules*/
 @media(min-width:767px) {
   #portfolio {
     .portfolio-item {

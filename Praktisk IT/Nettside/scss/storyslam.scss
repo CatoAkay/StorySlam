@@ -1,3 +1,4 @@
+// Importing header table of contents.
 /*------------------------------------------*/
 /*-------- StorySlam CSS stylesheet --------*/
 /*----------- Table of Contents    ---------*/
@@ -37,23 +38,33 @@
 /*--| 7 |-Team------------------------------*/
 
 /*__________________________________________*/
-/*--| 8 |-Contact Modal---------------------*/
-/*---|8.1|----------------------Scroll arrow*/   
+/*--| 8 |-Contact Modal---------------------*/ 
 
 /*__________________________________________*/
 /*--| 9 |-Footer----------------------------*/
-/*---|9.1|---------------------Html and body*/
+/*---|9.1|--------------General footer rules*/
+/*---|9.1|--------------------Social buttons*/
 
-/*__________________________________________*/
-/*--| 10 |-Legacy Rules---------------------*/
+/*//////\\\\\\\////////////////\\\\\\\//////*/
+/*/////////////\\\\\\\\\\\\\\\\/////////////*/
+/*\\\\\\\\\\\\\////////////////\\\\\\\\\\\\\*/
+/*/////////////\\\\\\\\\\\\\\\//////////////*/
+/*\\\\\\\\\\\\\///////////////\\\\\\\\\\\\\\*/
 
+// Importing core variables and mixins
+@import "variables.scss";
+@import "mixins.scss";
 
-/*====================================*/
-/*====-| 1 |-General style rules-====*/
-/*==================================*/
-/*---------------------------------*/
-/*------------Html and body |1.1|-*/
+// Importing clobal CSS
+@import "global.scss";
 
-/*---------------------------------*/
-/*-------Text-based content |1.2|-*/
+// Importing remaining components
+@import "navbar.scss";
+@import "masthead.scss";
+@import "services.scss";
+@import "portfolio.scss";
+@import "timeline.scss";
+@import "team.scss";
+@import "contact.scss";
+@import "footer.scss";
 

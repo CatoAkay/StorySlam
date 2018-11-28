@@ -1,4 +1,7 @@
-// Styling for the timeline section
+/*__________________________________________*/
+/*--| 6 |-Timeline--------------------------*/
+
+/*---|6.1|-------------Mobile-specific rules*/
 .timeline {
   position: relative;
   padding: 0;
@@ -99,6 +102,8 @@
     }
   }
 }
+
+/*---|6.1|-------------Tablet-specific rules*/
 @media(min-width:768px) {
   .timeline {
     &:before {
@@ -132,6 +137,8 @@
     }
   }
 }
+
+/*---|6.1|------Retina tablet-specific rules*/
 @media(min-width:992px) {
   .timeline {
     > li {
@@ -155,6 +162,8 @@
     }
   }
 }
+
+/*---|6.1|------------Desktop-specific rules*/
 @media(min-width:1200px) {
   .timeline {
     > li {

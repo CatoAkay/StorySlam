@@ -1,7 +1,7 @@
 /*__________________________________________*/
 /*--| 3 |-Header (masthead)-----------------*/
 
-
+/*--|3.1|--------------Mobile-specific rules*/
 header.masthead {
   text-align: center;
   color: white;
@@ -30,6 +30,7 @@ header.masthead {
   }
 }
 
+/*--|3.2|----Desktop & Tablet-specific rules*/
 @media(min-width:768px) {
   header.masthead {
     background-image: url('../img/header-bg.jpg');
