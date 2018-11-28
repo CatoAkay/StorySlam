@@ -1,7 +1,7 @@
 # StorySlam
-Nettside til StorySlam praktisk IT.
+Website developed on behalf of StorySlam Oslo using SCSS and Bootstrap on Blackrock Digital LLS's Agency theme. 
 
-This website is built on top of the Agency base bootstrap theme provided by Start Bootstrap, available here: https://startbootstrap.com/template-overviews/agency/
+This website is built using SCSS and Bootstrap on top of Bootstrap on Blackrock Digital LLS's Agency theme, available [here](https://startbootstrap.com/template-overviews/agency/)
 
 To continue work on this project, you first need to make sure your enviroment supports SCSS and Node.js.
 

@@ -1,18 +1,13 @@
-/* Make all objects clearer on focus. Exception added to class nedover as it has a special style. */
-*:focus:not(.btn-header #sendMessageButton) {
+/* Make all objects clearer on focus. Exception added to class .btn as they do not require further pronounciation. */
+*:focus:not(.btn) {
     -webkit-transition: all 0.30s ease-in-out;
     -moz-transition: all 0.30s ease-in-out;
     -ms-transition: all 0.30s ease-in-out;
     -o-transition: all 0.30s ease-in-out;
     outline: none;
-    padding: 3px 0px 3px 3px;
+    padding: 3px 3px 3px 3px;
     /* margin: 5px 1px 3px 0px; */
-    #border: 2px solid blue;
-
     box-shadow: 0 0 5px blue;
-    #padding: 3px 0px 3px 3px;
-    #margin: 5px 1px 3px 0px;
-    #border: 1px solid rgba(81, 203, 238, 1);
 }
 
 .tydeligere {
