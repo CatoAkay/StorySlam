@@ -1,5 +1,5 @@
 /* Make all objects clearer on focus. Exception added to class nedover as it has a special style. */
-*:focus:not(.btn-header) {
+*:focus:not(.btn-header #sendMessageButton) {
     -webkit-transition: all 0.30s ease-in-out;
     -moz-transition: all 0.30s ease-in-out;
     -ms-transition: all 0.30s ease-in-out;
@@ -110,7 +110,6 @@ section h3.section-paragraph {
 
 .btn-primary:hover{
     background-color: white;
-    border-radius: 25px;
     color: #c35438;
 }
 
