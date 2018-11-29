@@ -1,3 +1,10 @@
+/*------------------------------------------*/
+/*- This stylesheet is used for storing ----*/
+/*- CSS-rules created by at the early ------*/
+/*- days of this project. These rules must -*/
+/*- always be at the bottom of the cascade -*/
+/*------------------------------------------*/
+
 /* Make all objects clearer on focus. Exception added to class .btn as they do not require further pronounciation. */
 *:focus:not(.btn) {
     -webkit-transition: all 0.30s ease-in-out;
@@ -57,22 +64,6 @@ section h3.section-paragraph {
     text-align: justify;
 }
 
-.eupopup-head {
-    font-size: 30px;
-}
-
-.eupopup-body {
-    font-size: 15px;;
-}
-
-.eupopup-button {
-    font-size: 25px;
-}
-
-.eupopup-button:hover {
-    font-size: 30px;
-}
-
 .ckanpp {
     background:none!important;
     color:inherit;
@@ -110,6 +101,22 @@ section h3.section-paragraph {
 
 .extra-room{
     padding-top: 100px;
+}
+
+.eupopup-head {
+    font-size: 30px;
+}
+
+.eupopup-body {
+    font-size: 15px;;
+}
+
+.eupopup-button {
+    font-size: 25px;
+}
+
+.eupopup-button:hover {
+    font-size: 30px;
 }
 
 @media only screen and (max-width: 559px) {
