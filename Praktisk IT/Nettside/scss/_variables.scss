@@ -1,4 +1,5 @@
 $white: #fff !default;
+$black: #000 !default;
 $gray-100: #f8f9fa !default;
 $gray-200: #e9ecef !default;
 $gray-300: #dee2e6 !default;
@@ -7,12 +8,21 @@ $gray-500: #adb5bd !default;
 $gray-600: #868e96 !default;
 $gray-700: #495057 !default;
 $gray-800: #343a40 !default;
-$gray-900: #649B6F !default; //Previously #212529, changed by Yanislav on 05.10.2018
-$black: #000 !default;
+$gray-900: #649B6F !default; //Originally #212529, changed by Yanislav on 05.10.2018
 
 $primary: #EEDAB8 !default;
 
-// $primary: #fed136 !default;
-
 $green-900: #649B6F !default;
 $green-100: #EEDAB8 !default;
+
+$box-shadow: #0000ff;
+$story-hover: #008000;
+
+$btn-primary-main: #d2af75;
+$btn-primary-second: #892119;
+$btn-hover: #c35438;
+
+$bg-1: #f8f9fa;
+$bg-2: #fff;
+
+$font-color: inherit;
