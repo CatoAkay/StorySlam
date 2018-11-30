@@ -408,11 +408,12 @@ header.masthead .intro-text .intro-heading {
 .portfolio-modal .modal-content h2 {
   font-size: 3em;
   margin-bottom: 15px;
-  color: inherit;
+  color: #000;
 }
 
 .portfolio-modal .modal-content p {
   margin-bottom: 30px;
+  color: #000;
 }
 
 .portfolio-modal .modal-content p.item-intro {
@@ -425,6 +426,10 @@ header.masthead .intro-text .intro-heading {
 .portfolio-modal .modal-content ul.list-inline {
   margin-top: 0;
   margin-bottom: 30px;
+}
+
+.portfolio-modal .modal-content li {
+  color: #000;
 }
 
 .portfolio-modal .modal-content img {
