@@ -477,6 +477,13 @@ header.masthead .intro-text .intro-heading {
   background-color: #649B6F;
 }
 
+/*--|5.3|--Rules for support of older phones*/
+@media (max-width: 576px) {
+  .portfolio-modal .modal-content h2 {
+    font-size: 1.5em;
+  }
+}
+
 /*__________________________________________*/
 /*--| 6 |-Timeline--------------------------*/
 /*---|6.1|-------------Mobile-specific rules*/

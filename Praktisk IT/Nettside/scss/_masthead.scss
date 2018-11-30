@@ -5,7 +5,7 @@
 header.masthead {
   text-align: center;
   color: $white;
-  background-image: url('../img/header-bg-small.jpg');
+  background-image: url($header-bg-small);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -33,7 +33,7 @@ header.masthead {
 /*--|3.2|----Desktop & Tablet-specific rules*/
 @media(min-width:768px) {
   header.masthead {
-    background-image: url('../img/header-bg.jpg');
+    background-image: url($header-bg);
     .intro-text {
       padding-top: 300px;
       padding-bottom: 200px;

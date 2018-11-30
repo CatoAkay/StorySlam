@@ -254,7 +254,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: #000;
-  background-image: url("../img/header-bg-small.jpg");
+  background-image: url("../img/header-bg-small-dark.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -285,7 +285,7 @@ header.masthead .intro-text .intro-heading {
 /*--|3.2|----Desktop & Tablet-specific rules*/
 @media (min-width: 768px) {
   header.masthead {
-    background-image: url("../img/header-bg.jpg");
+    background-image: url("../img/header-bg-dark.jpg");
   }
   header.masthead .intro-text {
     padding-top: 300px;
@@ -483,6 +483,13 @@ header.masthead .intro-text .intro-heading {
   -webkit-transform: rotate(90deg);
   transform: rotate(90deg);
   background-color: #253929;
+}
+
+/*--|5.3|--Rules for support of older phones*/
+@media (max-width: 576px) {
+  .portfolio-modal .modal-content h2 {
+    font-size: 1.5em;
+  }
 }
 
 /*__________________________________________*/
