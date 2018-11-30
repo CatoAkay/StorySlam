@@ -144,7 +144,7 @@ $.fn.euCookieLawPopup = (function() {
 				'<div class="eupopup-body">' + _self.params.popupText + '</div>' +
 				'<div class="eupopup-buttons">' +
 				  '<a href="#" class="eupopup-button eupopup-button_1">' + _self.params.buttonContinueTitle + '</a>' +
-				  '<a href="privacy.html"' +//!!!Her legges link til privacy & policy!!!
+				  '<a href="privacy_en.html"' + // This is where we refer to the StorySlam privacy page
 				 	(_self.params.buttonLearnmoreOpenInNewWindow ? ' target=_blank ' : '') +
 					' class="eupopup-button eupopup-button_2">' + _self.params.buttonLearnmoreTitle + '</a>' +
 				  '<div class="clearfix"></div>' +
@@ -254,8 +254,8 @@ $(document).ready( function() {
 	if ($(".eupopup").length > 0) {
 		$(document).euCookieLawPopup().init({
 			'info' : 'YOU_CAN_ADD_MORE_SETTINGS_HERE',
-			'popupTitle' : 'This website may be using cookies. ',
-			'popupText' : 'We use them to give you the best experience. If you continue using our website, we\'ll assume that you are happy to receive all cookies on this website.'
+			'popupTitle' : 'StorySlam uses cookies. ',
+			'popupText' : 'These are used to give you a better browsing experience, and better understand what you want to see. If you continue using our website, we\'ll assume that you are happy to receive all cookies on this website.'
 		});
 	}
 });
