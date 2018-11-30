@@ -48,6 +48,10 @@
 /*\\\\\\\\\\\\\////////////////\\\\\\\\\\\\\*/
 /*/////////////\\\\\\\\\\\\\\\//////////////*/
 /*\\\\\\\\\\\\\///////////////\\\\\\\\\\\\\\*/
+body {
+  background-color: black;
+}
+
 /*__________________________________________*/
 /*--| 1 |-Global settings-------------------*/
 body {
@@ -170,7 +174,7 @@ img::-moz-selection {
   right: 0;
   padding: 15px;
   text-transform: uppercase;
-  color: #000;
+  color: #adb5bd;
   border: 0;
   background-color: #575043;
   font-family: 'Ubuntu', sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
@@ -191,7 +195,7 @@ img::-moz-selection {
   font-weight: 400;
   padding: 0.75em 0;
   letter-spacing: 1px;
-  color: #000;
+  color: #adb5bd;
   font-family: 'Ubuntu', sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
@@ -573,7 +577,7 @@ header.masthead .intro-text .intro-heading {
 
 .timeline .timeline-heading h4 {
   margin-top: 0;
-  color: inherit;
+  color: #868e96;
 }
 
 .timeline .timeline-heading h4.subheading {
@@ -813,7 +817,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 }
 
 .clearer-text {
-  text-shadow: white 0px 0px 10px;
+  text-shadow: #000 0px 0px 10px;
 }
 
 /* Makes long text clearer and more readable. Currently only used for introdctory text under "What is StorySLAM". */

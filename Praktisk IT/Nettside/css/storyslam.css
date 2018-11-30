@@ -813,7 +813,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 }
 
 .clearer-text {
-  text-shadow: white 0px 0px 10px;
+  text-shadow: #fff 0px 0px 10px;
 }
 
 /* Makes long text clearer and more readable. Currently only used for introdctory text under "What is StorySLAM". */
