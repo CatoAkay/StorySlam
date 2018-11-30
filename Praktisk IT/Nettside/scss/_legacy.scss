@@ -1,9 +1,12 @@
 /*------------------------------------------*/
 /*- This stylesheet is used for storing ----*/
-/*- CSS-rules created by at the early ------*/
+/*- CSS-rules created at the early ---------*/
 /*- days of this project. These rules must -*/
 /*- always be at the bottom of the cascade -*/
 /*------------------------------------------*/
+
+/*__________________________________________*/
+/*--| 10 |-Legacy rules---------------------*/
 
 /* Make all objects clearer on focus. Exception added to class .btn as they do not require further pronounciation. */
 *:focus:not(.btn) {
