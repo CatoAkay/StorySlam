@@ -400,6 +400,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 .portfolio-modal .modal-content {
+  background-color: #fff;
   padding: 100px 0;
   text-align: center;
 }
@@ -407,6 +408,7 @@ header.masthead .intro-text .intro-heading {
 .portfolio-modal .modal-content h2 {
   font-size: 3em;
   margin-bottom: 15px;
+  color: inherit;
 }
 
 .portfolio-modal .modal-content p {

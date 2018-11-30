@@ -15,14 +15,14 @@
     @include heading-font;
   }
   .navbar-brand {
-    color: $primary;
+    color: $brand-color;
     @include script-font;
     font-size: 2em;
     &.active,
     &:active,
     &:focus,
     &:hover {
-      color: darken($primary, 10%);
+      color: darken($brand-color, 10%);
     }
   }
   .navbar-nav {
