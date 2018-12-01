@@ -132,8 +132,8 @@ section h3.section-subheading {
 }
 
 .btn-primary:active, .btn-primary:focus {
-  -webkit-box-shadow: 0 0 0 0.2rem #0000ff !important;
-  box-shadow: 0 0 0 0.2rem #0000ff !important;
+  -webkit-box-shadow: 0 0 0 0.2rem #d4d4ff !important;
+  box-shadow: 0 0 0 0.2rem #d4d4ff !important;
 }
 
 /*---|1.3|----------------------Highlighting*/
@@ -831,8 +831,8 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   outline: none;
   padding: 3px 3px 3px 3px;
   /* margin: 5px 1px 3px 0px; */
-  -webkit-box-shadow: 0 0 5px #0000ff;
-  box-shadow: 0 0 5px #0000ff;
+  -webkit-box-shadow: 0 0 5px #d4d4ff;
+  box-shadow: 0 0 5px #d4d4ff;
 }
 
 .clearer-text {
