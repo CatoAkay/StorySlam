@@ -9,7 +9,7 @@
     right: 0;
     padding: 15px;
     text-transform: uppercase;
-    color: $navlinks-color;
+    color: $navlinks-color-clearer;
     border: 0;
     background-color: $primary;
     @include heading-font;
@@ -58,6 +58,9 @@
       -webkit-transition: all 0.3s;
       -moz-transition: all 0.3s;
       transition: all 0.3s;
+    }
+    .navbar-toggler {
+      color: $navlinks-color;
     }
     .navbar-nav {
       .nav-item {

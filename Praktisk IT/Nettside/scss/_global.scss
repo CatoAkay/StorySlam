@@ -3,6 +3,7 @@
 body {
   overflow-x: hidden;
   @include body-font;
+  background-color: $white;
 }
 
 /*---|1.1|----------------Text-based content*/

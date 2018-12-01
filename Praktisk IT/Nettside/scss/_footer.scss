@@ -10,6 +10,10 @@ footer {
     line-height: 40px;
     text-transform: none;
     @include heading-font;
+    color: $footer-text;
+  }
+  a {
+    color: $footer-text;
   }
   ul.quicklinks {
     font-size: 90%;

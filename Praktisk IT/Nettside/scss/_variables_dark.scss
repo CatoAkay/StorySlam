@@ -28,6 +28,7 @@ $bg-2: #000;
 $font-color: $gray-300;
 
 $navlinks-color: $gray-400;
+$navlinks-color-clearer: $gray-600;
 
 $brand-color: #5fa15f;
 
@@ -37,10 +38,4 @@ $header-bg: '../img/header-bg-dark.jpg';
 
 $header-bg-small: '../img/header-bg-small-dark.jpg';
 
-body {
-    background-color: black;
-}
-
-.copyright {
-    color: #575043;
-}
+$footer-text: #fff;
