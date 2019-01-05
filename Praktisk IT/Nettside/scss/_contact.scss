@@ -6,7 +6,10 @@ section#contact {
   background-repeat: no-repeat;
   background-position: center;
   .section-heading {
-    color: $white;
+    color: $privacy-text;
+  }
+  p {
+    color: $privacy-text;
   }
   .form-group {
     margin-bottom: 25px;
